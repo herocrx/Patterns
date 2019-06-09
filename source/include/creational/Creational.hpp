@@ -7,15 +7,15 @@
 
 #pragma once
 
-#include <include/Pattern.hpp>
+#include <utils/Pattern.hpp>
 
-#include <Adapter/Adapter.hpp>
-#include <Bridge/Bridge.hpp>
-#include <Composite/Composite.hpp>
-#include <Decorator/Decorator.hpp>
-#include <Facade/Facade.hpp>
-#include <Flyweight/Flyweight.hpp>
-#include <Proxy/Proxy.hpp>
+#include <creational/adapter/Adapter.hpp>
+#include <creational/bridge/Bridge.hpp>
+#include <creational/composite/Composite.hpp>
+#include <creational/decorator/Decorator.hpp>
+#include <creational/facade/Facade.hpp>
+#include <creational/flyweight/Flyweight.hpp>
+#include <creational/proxy/Proxy.hpp>
 
 namespace patterns
 {

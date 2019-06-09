@@ -1,4 +1,4 @@
-#include <Adapter/Adapter.hpp>
+#include <creational/adapter/Adapter.hpp>
 
 namespace patterns
 {
