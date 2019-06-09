@@ -36,6 +36,7 @@ private:
     utils::Pattern<Composite>   mComposite;
     utils::Pattern<Decorator>   mDecorator;
     utils::Pattern<Facade>      mFacade;
+    utils::Pattern<Flyweight>    mFlyweight;
     utils::Pattern<Proxy>       mProxy;
 }; // class Creational
 

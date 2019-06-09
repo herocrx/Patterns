@@ -1,5 +1,11 @@
-#include <string>
+/*********************************************************************
+* Project           : Patterns
+* Filename          : Composite.hpp
+* Author            : HKuc
+* Date created      : 09.07.2019
+*********************************************************************/
 
+#include <string>
 
 namespace patterns
 {

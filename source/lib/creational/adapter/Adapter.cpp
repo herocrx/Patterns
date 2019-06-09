@@ -1,3 +1,10 @@
+/*********************************************************************
+* Project           : Patterns
+* Filename          : Adapter.cpp
+* Author            : HKuc
+* Date created      : 09.07.2019
+*********************************************************************/
+
 #include <creational/adapter/Adapter.hpp>
 
 namespace patterns

@@ -1,5 +1,12 @@
-#include <string>
+/*********************************************************************
+* Project           : Patterns
+* Filename          : Decorator.hpp
+* Author            : HKuc
+* Date created      : 09.07.2019
+*********************************************************************/
+#pragma once
 
+#include <string>
 
 namespace patterns
 {

@@ -1,3 +1,10 @@
+/*********************************************************************
+* Project           : Patterns
+* Filename          : Pattern.hpp
+* Author            : HKuc
+* Date created      : 09.07.2019
+*********************************************************************/
+
 #include <iostream>
 
 namespace utils
