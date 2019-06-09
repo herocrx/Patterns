@@ -16,3 +16,7 @@ message("Include path:
 message("-----------------------------")
 
 target_link_libraries(Application Creational)
+
+
+install(TARGETS Application DESTINATION ${CMAKE_BINARY_DIR}/install/lib)
+

@@ -15,4 +15,6 @@ target_include_directories(Creational PUBLIC
     ${CMAKE_SOURCE_DIR}/source/include
     )
 
+install(TARGETS Creational DESTINATION ${CMAKE_BINARY_DIR}/install/lib)
+
 
